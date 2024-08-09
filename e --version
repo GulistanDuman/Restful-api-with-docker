@@ -1,0 +1,23 @@
+[0;1;32m●[0m docker.service - Docker Application Container Engine
+     Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Mon 2024-07-15 15:39:19 +03; 1h 38min ago
+TriggeredBy: [0;1;32m●[0m docker.socket
+       Docs: https://docs.docker.com
+   Main PID: 11197 (dockerd)
+      Tasks: 35
+     Memory: 321.4M
+     CGroup: /system.slice/docker.service
+             ├─11197 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+             ├─12198 /usr/bin/docker-proxy -proto tcp -host-ip 0.0.0.0 -host-port 3000 -container-ip 172.17.0.2 -container-port 3000
+             └─12206 /usr/bin/docker-proxy -proto tcp -host-ip :: -host-port 3000 -container-ip 172.17.0.2 -container-port 3000
+
+Tem 15 15:39:19 gulistan dockerd[11197]: time="2024-07-15T15:39:19.696303884+03:00" level=info msg="Docker daemon" commit="24.0.7-0ubuntu2~20.04.1" graphdriver=overlay2 version=24.0.7
+Tem 15 15:39:19 gulistan dockerd[11197]: time="2024-07-15T15:39:19.696431585+03:00" level=info msg="Daemon has completed initialization"
+Tem 15 15:39:19 gulistan dockerd[11197]: time="2024-07-15T15:39:19.736051595+03:00" level=info msg="API listen on /run/docker.sock"
+Tem 15 15:39:19 gulistan systemd[1]: Started Docker Application Container Engine.
+Tem 15 15:39:37 gulistan dockerd[11197]: time="2024-07-15T15:39:37.238699591+03:00" level=info msg="ignoring event" container=e272e683da12b3b19aacfaf42efe8d7ec15b4ef7e2801ca7477c3a0311a0a50e module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Tem 15 15:39:45 gulistan dockerd[11197]: time="2024-07-15T15:39:45.514206397+03:00" level=info msg="Layer sha256:ad33b1bf807ab7f6a76321f42ec547d2dc6331fb4842aec7ef185192ee21cf3b cleaned up"
+Tem 15 15:39:45 gulistan dockerd[11197]: time="2024-07-15T15:39:45.559362456+03:00" level=info msg="Layer sha256:ad33b1bf807ab7f6a76321f42ec547d2dc6331fb4842aec7ef185192ee21cf3b cleaned up"
+Tem 15 15:42:21 gulistan dockerd[11197]: time="2024-07-15T15:42:21.223370311+03:00" level=info msg="ignoring event" container=8c58ca2d56208e27c72353055d4e043c422863f9e2b42d69db8749cc0d49acd3 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Tem 15 15:46:16 gulistan dockerd[11197]: time="2024-07-15T15:46:16.024269300+03:00" level=warning msg="no trace recorder found, skipping"
+Tem 15 15:46:30 gulistan dockerd[11197]: time="2024-07-15T15:46:30.288688889+03:00" level=warning msg="no trace recorder found, skipping"
