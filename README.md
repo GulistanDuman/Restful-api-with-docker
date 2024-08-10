@@ -32,18 +32,6 @@
 
 ![ mongo-compass connect url image: mongodb://localhost:27017 ] ![Screenshot from 2024-08-10 16-36-04](https://github.com/user-attachments/assets/26dceac0-a477-4749-963d-a9c46dc3e4e7)
 
-![Screenshot from 2024-08-10 16-42-54](https://github.com/user-attachments/assets/ad7c3d12-5ca8-4b79-8b42-3070a65b4edb)
-
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-59.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-49-31.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-22.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-38.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-45.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-51.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-59.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-51.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-59.png
-file:///home/gulistan/Screenshot%20from%202024-08-10%2017-48-45.png
 
 
 
