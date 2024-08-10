@@ -24,7 +24,19 @@
       npm install
       docker-compose up
 
+
 *The API runs on port 3000 by default, while MongoDB operates on localhost at port 27017.*
+
+*You can download this json datas in this web site:   https://github.com/neelabalan/mongodb-sample-dataset*
+*( I used a sample_analytics for this api.)*
+
+![ mongo-compass connect url image: mongodb://localhost:27017 ] ![Screenshot from 2024-08-10 16-36-04](https://github.com/user-attachments/assets/26dceac0-a477-4749-963d-a9c46dc3e4e7)
+
+![Screenshot from 2024-08-10 16-42-54](https://github.com/user-attachments/assets/ad7c3d12-5ca8-4b79-8b42-3070a65b4edb)
+
+
+
+
 
 
 
