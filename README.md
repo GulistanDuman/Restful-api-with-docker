@@ -2,17 +2,17 @@
 
 **The Aim of the Project**
 
-*The aim of the project is containerize restful api with using docker.This project contribute to yourself;*
+*The aim of the project is containerize RESTful API with using Docker.This project will contribute to your understanding of;*
 
-   *-How to use docker and the other applications(vscode,nodejs,expressjs,mongodb/mongo-compass/mongo-shell)*
+   *-How to use Docker and the other applications(VS Code,Node.js,Express.js,MongoDB/Mongo Compass/Mongo Shell)*
  
-   *-You can learn javascript and create rest api etc.*
+   *-Learning JavaScript and creating a RESTful API,etc.*
 
-     
-*I gonna show you how to use and install the project but don't forget everyone has own sign.You can change how you will use the project or its content according to yourself, or you can make additions.It's up to you :)*
-*Also this project made in the Linux operational system but you can change according to Windows,macOS etc.*
+*I’m going to show you how to use and install the project, but don't forget that everyone has their own approach.You can modify how you use the project or its content according to your needs, or you can make additions. It's up to you :)*
+*Also, this project was developed on a Linux operating system, but you can adapt it to Windows, macOS, etc.*
 
-*In the beginning of the project I will show you necessarily packages and applications.If you already have to they you can control with --version;*
+*At the beginning of the project, I will show you the necessary packages and applications. If you already have them installed, you can verify with --version.*
+
 
 ![applications controll commands]    ![Screenshot from 2024-08-10 15-00-44](https://github.com/user-attachments/assets/58c6484a-e460-40f4-a8bd-1b11b8973b3d)
 
