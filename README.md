@@ -17,11 +17,12 @@
 ![applications controll commands]    ![Screenshot from 2024-08-10 15-00-44](https://github.com/user-attachments/assets/58c6484a-e460-40f4-a8bd-1b11b8973b3d)
 
 
-*Clone the project: *
-   *git clone https://github.com/GulistanDuman/Restful-api-with-docker.git*
-   *cd Restful-api-with-docker*
-   *npm install*
-   *docker-compose up*
+*Clone the project:*
+
+      git clone https://github.com/GulistanDuman/Restful-api-with-docker.git
+      cd Restful-api-with-docker
+      npm install
+      docker-compose up
 
 *The API runs on port 3000 by default, while MongoDB operates on localhost at port 27017.*
 
