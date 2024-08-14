@@ -1,4 +1,4 @@
-                  Containerize RESTful API using with Docker0
+                  Containerize RESTful API using with Docker
 
 **The Aim of the Project**
 
