@@ -43,16 +43,3 @@
 ![Postman post request api]![Screenshot from 2024-08-10 17-49-24](https://github.com/user-attachments/assets/b3001091-ac16-4fad-b801-d67b3467859a)
 ![Postman post request api]![Screenshot from 2024-08-10 17-49-31](https://github.com/user-attachments/assets/7adf8347-2ccc-4fe0-9bf2-9a209472fa8d)
 
-
-
-
-
-
-
-
-
-
-=======
-# Restful-api-with-docker
-Containerize Restful api with using Docker
->>>>>>> Add README from main branch
