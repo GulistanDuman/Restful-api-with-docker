@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Sample Node.js project with Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^4.4.12",
+    "mongoose": "^6.1.8"
+  },
+  "author": "gulistanduman",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16"
+  }
+}
